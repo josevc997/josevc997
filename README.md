@@ -1,4 +1,4 @@
-# josevc997
+# Hello i'm José Valencia
 
 <h2 align="left" id="josevc997-tech">Favorite Tech</h2>
 
@@ -30,23 +30,17 @@
       </a>
       <br>Github actions
     </td>
-    <td align="center" width="96"> 
-      <a href="#josevc997-tech" >
-        <img src="https://api.iconify.design/logos:git-icon.svg" width="48" height="48" alt="Git" />
+    <td align="center" width="96">
+      <a href="#josevc997-tech">
+        <img src="https://api.iconify.design/logos:postgresql.svg" width="48" height="48" alt="PostreSQL" />
       </a>
-      <br>Git
+      <br>PostreSQL
     </td>
-    <td align="center" width="96"> 
-      <a href="#josevc997-tech" >
-        <img src="https://api.iconify.design/logos:insomnia.svg" width="48" height="48" alt="Insomnia" />
+    <td align="center" width="96">
+      <a href="#josevc997-tech">
+        <img src="https://api.iconify.design/logos:mysql-icon.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>Insomnia
-    </td>
-    <td align="center" width="96"> 
-      <a href="#josevc997-tech" >
-        <img src="https://api.iconify.design/logos:postman-icon.svg" width="48" height="48" alt="Postman" />
-      </a>
-      <br>Postman
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#josevc997-tech">
@@ -54,6 +48,14 @@
       </a>
       <br>Python
     </td>
+    <td align="center" width="96">
+      <a href="#josevc997-tech">
+        <img src="https://api.iconify.design/logos:php.svg" width="48" height="48" alt="php" />
+      </a>
+      <br>php
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#josevc997-tech">
         <img src="https://api.iconify.design/logos:typescript-icon.svg" width="48" height="48" alt="TypeScript" />
@@ -90,6 +92,26 @@
       </a>
       <br>next
     </td>
+    <td align="center" width="96"> 
+      <a href="#josevc997-tech" >
+        <img src="https://api.iconify.design/logos:insomnia.svg" width="48" height="48" alt="Insomnia" />
+      </a>
+      <br>Insomnia
+    </td>
+    <td align="center" width="96"> 
+      <a href="#josevc997-tech" >
+        <img src="https://api.iconify.design/logos:postman-icon.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#josevc997-tech" >
+        <img src="https://api.iconify.design/logos:git-icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
     <td align="center" width="96">
       <a href="#josevc997-tech">
         <img src="https://api.iconify.design/logos:html-5.svg" width="48" height="48" alt="HTML5" />
@@ -101,18 +123,6 @@
         <img src="https://api.iconify.design/logos:css-3.svg" width="48" height="48" alt="CSS3" />
       </a>
       <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#josevc997-tech">
-        <img src="https://api.iconify.design/logos:css-3.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#josevc997-tech">
-        <img src="https://api.iconify.design/logos:postgresql.svg" width="48" height="48" alt="PostreSQL" />
-      </a>
-      <br>PostreSQL
     </td>
   </tr>
 </table>
