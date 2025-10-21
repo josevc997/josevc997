@@ -1,4 +1,17 @@
 # Hello i'm José Valencia
+I'm a Full Stack Developer passionate about building efficient and scalable solutions.
+Enthusiastic about clean architecture, automation, and cloud technologies.
+
+🏢 Currently working as a Software Developer at CTS Turismo
+
+🌱 Learning Golang
+
+🥋 Training Karate Do
+
+💻 Coding since 2015
+
+💼 3+ years of experience developing enterprise-grade applications
+
 
 <h2 align="left" id="josevc997-tech">Favorite Tech</h2>
 
@@ -30,6 +43,18 @@
       </a>
       <br>Github actions
     </td>
+    <td align="center" width="96"> 
+      <a href="#josevc997-tech" >
+        <img src="https://api.iconify.design/logos:sentry-icon.svg" width="48" height="48" alt="Sentry" />
+      </a>
+      <br>Sentry
+    </td>
+    <td align="center" width="96"> 
+      <a href="#josevc997-tech" >
+        <img src="https://api.iconify.design/logos:datadog-icon.svg" width="48" height="48" alt="Datadog" />
+      </a>
+      <br>Datadog
+    </td>
     <td align="center" width="96">
       <a href="#josevc997-tech">
         <img src="https://api.iconify.design/logos:postgresql.svg" width="48" height="48" alt="PostreSQL" />
@@ -42,6 +67,8 @@
       </a>
       <br>MySQL
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#josevc997-tech">
         <img src="https://api.iconify.design/logos:python.svg" width="48" height="48" alt="Python" />
@@ -54,8 +81,6 @@
       </a>
       <br>php
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#josevc997-tech">
         <img src="https://api.iconify.design/logos:typescript-icon.svg" width="48" height="48" alt="TypeScript" />
@@ -70,6 +95,18 @@
     </td>
     <td align="center" width="96">
       <a href="#josevc997-tech">
+        <img src="https://api.iconify.design/logos:django-icon.svg" width="48" height="48" alt="django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#josevc997-tech">
+        <img src="https://api.iconify.design/logos:laravel.svg" width="48" height="48" alt="laravel" />
+      </a>
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <a href="#josevc997-tech">
         <img src="https://api.iconify.design/logos:vue.svg" width="48" height="48" alt="Vue" />
       </a>
       <br>Vue
@@ -80,6 +117,8 @@
       </a>
       <br>Nuxt
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#josevc997-tech">
         <img src="https://api.iconify.design/logos:react.svg" width="48" height="48" alt="react" />
@@ -94,6 +133,24 @@
     </td>
     <td align="center" width="96"> 
       <a href="#josevc997-tech" >
+        <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="48" height="48" alt="tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96"> 
+      <a href="#josevc997-tech" >
+        <img src="https://api.iconify.design/devicon:supabase.svg" width="48" height="48" alt="supabase" />
+      </a>
+      <br>Supabase
+    </td>
+    <td align="center" width="96"> 
+      <a href="#josevc997-tech" >
+        <img src="https://api.iconify.design/devicon:dbeaver.svg" width="48" height="48" alt="dbeaver" />
+      </a>
+      <br>Dbeaver
+    </td>
+    <td align="center" width="96"> 
+      <a href="#josevc997-tech" >
         <img src="https://api.iconify.design/logos:insomnia.svg" width="48" height="48" alt="Insomnia" />
       </a>
       <br>Insomnia
@@ -104,14 +161,14 @@
       </a>
       <br>Postman
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="#josevc997-tech" >
         <img src="https://api.iconify.design/logos:git-icon.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#josevc997-tech">
         <img src="https://api.iconify.design/logos:html-5.svg" width="48" height="48" alt="HTML5" />
@@ -126,3 +183,16 @@
     </td>
   </tr>
 </table>
+
+<h2 align="left" id="josevc997-connect">🤝 Connect with me</h2> 
+<p align="left"> 
+  <a href="https://github.com/josevc997" target="_blank">
+    <img src="https://api.iconify.design/logos:github-icon.svg" width="40" height="40" alt="GitHub" /> 
+  </a>
+  <a href="https://www.linkedin.com/in/josevc997" target="_blank"> 
+    <img src="https://api.iconify.design/logos:linkedin-icon.svg" width="40" height="40" alt="LinkedIn" /> 
+  </a>
+  <a href="mailto:19josevalencia97@gmail.com">
+    <img src="https://api.iconify.design/logos:google-gmail.svg" width="40" height="40" alt="Email" />
+  </a>
+</p>
