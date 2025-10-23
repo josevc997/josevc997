@@ -186,13 +186,7 @@ Enthusiastic about clean architecture, automation, and cloud technologies.
 
 <h2 align="left" id="josevc997-connect">🤝 Connect with me</h2> 
 <p align="left"> 
-  <a href="https://github.com/josevc997" target="_blank">
-    <img src="https://api.iconify.design/logos:github-icon.svg" width="40" height="40" alt="GitHub" /> 
-  </a>
-  <a href="https://www.linkedin.com/in/josevc997" target="_blank"> 
-    <img src="https://api.iconify.design/logos:linkedin-icon.svg" width="40" height="40" alt="LinkedIn" /> 
-  </a>
-  <a href="mailto:19josevalencia97@gmail.com">
-    <img src="https://api.iconify.design/logos:google-gmail.svg" width="40" height="40" alt="Email" />
-  </a>
+<a href="https://www.linkedin.com/in/josevc997"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2" height=25></a>
+<a href="mailto:19josevalencia97@gmail.com"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=red" height=25></a>
+<a href="https://x.com/josevc997"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=x&logoColor=white&color=black" height=25></a>
 </p>
